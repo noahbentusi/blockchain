@@ -1,0 +1,46 @@
+{
+    /** 网络接口配置 */
+    "endpoint": {
+        /** 本地节点私钥 X.509 PEM格式 */
+        "key": "./certs/node1.key",
+        /** 本地节点公钥证书 X.509 PEM格式 */
+        "cert": "./certs/node1.crt",
+        /** 根公钥证书 X.509 PEM格式 */
+        "ca": "./certs/root.crt",
+        /** */
+        "golden_ca": "./certs/golden.crt",
+        /** 网络监听地址 */
+        "address": "0.0.0.0",
+        /** 网络监听端口 */
+        "port": 10443
+    },
+    "node": {
+        /** 本地节点的uuid */
+        "uuid": "bbeab5ae-a857-11e9-940e-275afcc4b545"
+    },
+    /** UNL白名单列表 */
+    "unl": [
+        {
+            "host": "127.0.0.1",
+            "port": 10443,
+            "uuid": "bbeab5ae-a857-11e9-940e-275afcc4b545"
+        }
+    ],
+    /** 运行配置 */
+    "opts": {
+        /** 网络通讯超时，毫秒 */
+        "timeout": 3000,
+        /** 节点健康检查间隔，毫秒 */
+        "healthyTimer": 100,
+        /** 每轮投票间隔，毫秒 */
+        "roundTimer": 300,
+        /** 区块链同步间隔，毫秒 */
+        "syncTimer": 1200,
+        /** 候选区块生存轮数 */
+        "ttl": 99,
+        /** 候选区块 关闭阈值 */
+        "closeThreshold": 0.8,
+        /** 区块处理状态 缓存条目数 */
+        "statusCache": 999
+    }
+}

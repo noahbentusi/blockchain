@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "existent_entries": [],
+    "nonexistent_entries": [],
+    "out_entries": [
+        "6c0d3149-6c24-4a1f-ad30-8c6c7ce821cb"
+    ],
+    "in_entries": [
+        "e695fb06-a9e7-11e9-9666-a78541c3a0d8"
+    ],
+    "remark": "初始化测试账户金额",
+    "signs_fields": [
+        "version",
+        "timestamp",
+        "existent_entries",
+        "nonexistent_entries",
+        "out_entries",
+        "in_entries",
+        "script"
+    ],
+    "script": "dHJhbnNmZXIoCiAgICAiNmMwZDMxNDktNmMyNC00YTFmLWFkMzAtOGM2YzdjZTgyMWNiIiwKICAgICJlNjk1ZmIwNi1hOWU3LTExZTktOTY2Ni1hNzg1NDFjM2EwZDgiLAogICAgImJhbGFuY2UiLCA4MDAwCik7Cg==",
+    "entry_signs": [
+        {
+            "entry": "6c0d3149-6c24-4a1f-ad30-8c6c7ce821cb",
+            "sign": "4667c2a4c3944f04c292c281c38dc38e31c3a644673d54c3b81c10c29bc2a9c3bec392c3ad6144c2abc3a551c39d0bc2a6c38e4340c3acc293c2ae540d061ec283c3aac39c7a275803c2a352c2985247c39062c3b73168c3813a023b6212c2a3546d5b6bc3b37900c2974361c3b1015f0ac3a0c2afc28142c3a5c2910b43c397c3ac3ac3bdc2a2c2bc507213c3abc3b52ac2a8c3bac385c29a6ec3aec2a4c298c2b5c3a7127bc3a15052c2a7c39a245a2ec2bac2b92d0135c3943a44c3bb3dc291c3bf1261c2963dc294c2904c7a4b0977621fc29e5628c2b3337059c3874fc29ec3b607c2b970c389c2ba23317f3dc2ab3339c3acc3adc2857dc2aa5c7679647a5d39180e4fc3bdc397c291c3b40542c28dc38b0e6a27c385c3ad610f0ec28b0a71c2a30546c29ec2a9c3ab51c2a170463917c39ec3a138c3bbc2854fc38ec39bc29cc2af070266446a62c280c3acc386c2a0c38a2066587156062318c3ba23006ac2adc2a3c3adc2a6c3b560c3924e6b"
+        }
+    ],
+    "timestamp": 1563542189996,
+    "hash": "27c2b0c2845bc387c2a950c3b26d50c2b17cc39cc38b4c2ac2a7c392c280c2b7c285c2adc395c2867ac3b8c2a9c3a8c3b6c29ec382c2ab"
+}

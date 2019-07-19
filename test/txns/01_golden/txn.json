@@ -1,0 +1,13 @@
+{
+      "version": 1,
+      "existent_entries": [ /** 本次交易必须存在的账户 */ ],
+      "nonexistent_entries": [ "e695fb06-a9e7-11e9-9666-a78541c3a0d8" ],
+      "out_entries": [ ],
+      "in_entries": [ ],
+      "remark": "金账户开户",
+      "signs_fields": [
+          "version", "timestamp",
+          "existent_entries", "nonexistent_entries",
+          "out_entries", "in_entries", "script"
+      ]
+}

@@ -1,0 +1,23 @@
+{
+    /** 网络接口配置 */
+    "endpoint": {
+        /** 本地私钥 X.509 PEM格式 */
+        "key": "./certs/client.key",
+        /** 本地公钥证书 X.509 PEM格式 */
+        "cert": "./certs/client.crt",
+        /** 根公钥证书 X.509 PEM格式 */
+        "ca": "./certs/root.crt"
+    },
+    "node": {
+        /** 本地的uuid */
+        "uuid": "53d2be40-a95f-11e9-b0b3-4ba1f18420b3"
+    },
+    /** UNL白名单列表 */
+    "unl": [
+        {
+            "host": "127.0.0.1",
+            "port": 10443,
+            "uuid": "bbeab5ae-a857-11e9-940e-275afcc4b545"
+        }
+    ]
+}

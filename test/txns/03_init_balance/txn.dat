@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "existent_entries": [],
+    "nonexistent_entries": [],
+    "out_entries": [
+        "e695fb06-a9e7-11e9-9666-a78541c3a0d8"
+    ],
+    "in_entries": [
+        "6c0d3149-6c24-4a1f-ad30-8c6c7ce821cb"
+    ],
+    "remark": "初始化测试账户金额",
+    "signs_fields": [
+        "version",
+        "timestamp",
+        "existent_entries",
+        "nonexistent_entries",
+        "out_entries",
+        "in_entries",
+        "script"
+    ],
+    "script": "dHJhbnNmZXIoCiAgICAiZTY5NWZiMDYtYTllNy0xMWU5LTk2NjYtYTc4NTQxYzNhMGQ4IiwKICAgICI2YzBkMzE0OS02YzI0LTRhMWYtYWQzMC04YzZjN2NlODIxY2IiLAogICAgImJhbGFuY2UiLCAxMDAwMAopOwoKdmFyIGdvbGRlbiA9IGVudHJ5KCJlNjk1ZmIwNi1hOWU3LTExZTktOTY2Ni1hNzg1NDFjM2EwZDgiKTsKCmdvbGRlbi50b3RhbEFtb3VudCA9IGdvbGRlbi5iYWxhbmNlOwo=",
+    "entry_signs": [
+        {
+            "entry": "e695fb06-a9e7-11e9-9666-a78541c3a0d8",
+            "sign": "c384c3ac4079c292113018c28749354b6a06495e3bc29d0ec2acc38d3a3bc294c283c2a1c38ac29f7c2961c2a1c391c38e7bc38f1f5dc39e4536c2850f51c2942ac39ac283c2834f7dc2935e6b665ec299c29406c2b9c39434c3ae4fc2b602c28d60c2bec28d20c3846bc29bc38bc3954273c3a06160c399c3bd0a5d52c38c25c2ab3dc289c292c29434c3b1c28349c2abc29ec39bc396793522c291316e2427227a5bc38bc2b645c29bc28921c38004c39b4a4e780c4b4bc2a1c39cc3b630c3af3ac28cc3b8c3821b46c2bd697d6416c28f681a256d7cc3ad48c389725b61072dc2b63ac3b64d5c77c2bec29d2654c2aec3adc38d1f5444c2b013075dc387c282114a09c2a1c3abc29f4f53c29a73c2a6255a3e083845c3985fc3b1c29dc3bf797b762ac3b7c399697ac2b5c389c2a0c3b9c380183dc2a822c2bdc2932dc3a5c386c2b4c3a8c2bec28cc3a85743c2be40586b4ac2a73d5f0cc2a1c287c3a0c3800dc2b3c3ad6cc28531c398c38ac2bb4f5e76c29111c3a4c39c37c2a2c28ec39344065ac2b5c28e725ac3b3c39718c3a9c28cc3a8c288c3a05bc3a8c2bfc38a11c2ba21c38bc2a3c2be0c0ec3a903024bc39d0fc28233c394625c0338c2a10ec3a9c2b1c3a8c2b9c2b3080c4ac28417c2bac3a27bc39c2b0647c3822e5f0fc288c3bb743b73c28f39460747c3b003c380c3833c04c28530c2b841c28ec3ac732fc2b623c3b5c3b604c2a223c286c291c38c76c3a7526a2fc38cc28964c29f52c381c3be77c2bec2b02b0436c2871ec2a7294e6ac2816b6f492e1461705fc294c3ad0ac2b1c3a9c39c66c2911772c3b011c398452003c287c297c2837fc29653c38cc38e7ac396c3b6c2916c516bc3806bc2b0770ac3abc2b1c38ec2a770c39b4ac2b0c389c3826ec28e4a5366662f73556f70c286440f51c3ba271d4552c292c3afc2a858c2aec38a4666c3a20b746d57c38ac3972bc28b35c3b4c28366313dc2acc383c398c38bc39467c2a4c2b44943c291c39ec380c292c29cc38800c2a7540bc29fc28d00c2a31cc39d1838c2aac2a3"
+        }
+    ],
+    "timestamp": 1563542190019,
+    "hash": "64c3b5c3a3c2bf73c29d2f1fc3a9c3813bc3ae5a19c2aec391c2afc2aec38816294d15c3aa7828c295c3a33bc3be780d"
+}
