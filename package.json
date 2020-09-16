@@ -15,7 +15,7 @@
     "bn.js": "^5.0.0",
     "content-type-parser": "^1.0.2",
     "iconv-lite": "^0.5.0",
-    "node-forge": "^0.8.5",
+    "node-forge": "^0.10.0",
     "uuid": "^3.3.2"
   }
 }
